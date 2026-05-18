@@ -1,5 +1,5 @@
 
-![Logo](https://violet-raw-squirrel-412.mypinata.cloud/ipfs/bafybeiep33ifyvkykyvkwfb6eype5e5jjw3s7z5x42sg3et73mrm2lrmg4)
+![Logo](https://violet-raw-squirrel-412.mypinata.cloud/ipfs/bafkreieuz77z2utjynabxnpqi652qfkng65ivj5ozo6pbsk6mpyumluiwy)
 
 
 # Python Quiz Collection
